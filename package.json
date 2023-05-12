@@ -1,0 +1,28 @@
+{
+  "name": "@jaycd598/react-native-card",
+  "version": "1.0.0",
+  "description": "A project showcasing a custom card component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncd598/react-native-card.git"
+  },
+  "keywords": [
+    "card",
+    "react",
+    "native"
+  ],
+  "author": "Jason C David",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasoncd598/react-native-card/issues"
+  },
+  "homepage": "https://github.com/jasoncd598/react-native-card#readme"
+}
